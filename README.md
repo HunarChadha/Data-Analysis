@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Contour
 
-A full-stack web app for analyzing tabular data: upload a CSV, TSV, Excel or JSON
+A full-stack web app for analyzing tabular data: upload a CSV, Excel 
 file and get back automatic column classification, statistical summaries, and
 interactive charts — plus a built-in AI chat assistant ("Vortex") for asking
 questions about your data.
