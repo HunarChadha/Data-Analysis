@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contour
 
 A full-stack web app for analyzing tabular data: upload a CSV, TSV, Excel or JSON
@@ -166,3 +167,6 @@ uvicorn Server:app --port 8000 --reload
 - Revisiting the Welcome page inserts a new account (no duplicate-email check).
 - The column classifier is trained on 15 features / 5 classes; unsupported or
   fully-empty columns are skipped.
+=======
+# Data-Analysis
+>>>>>>> 62ae5c02da7b1707dcb8c1dc6c83053359720d4d
